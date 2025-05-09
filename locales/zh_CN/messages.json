@@ -7126,7 +7126,7 @@
         "message": "可以在日志，备份文件名和OSD中显示。<\/br>可以被设置为<b>craft_name<\/b>CLI (命令行)变量"
     },
     "configurationPilotName": {
-        "message": "飞行员姓名\n"
+        "message": "飞行员名称"
     },
     "configurationPilotNameHelp": {
         "message": "可以在 OSD中显示。<\/br>可以通过<b>pilot_name<\/b>CLI (命令行)变量设置"
